@@ -1,2 +1,5 @@
-# Spring-boot-crud
-Spring Boot Crud Operation
+ Spring-boot-crud
+ Frontend Java jsp
+ Backend SpringBoot
+ Database MySQL
+ 
