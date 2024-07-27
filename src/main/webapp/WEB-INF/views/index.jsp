@@ -23,6 +23,9 @@
 		<div class="container">
 			<br>
 			<center>
+				<h2>Insert Data</h2>
+				<h2>Update Data</h2>
+				<h2>Delete Data</h2>
 				<h2>Employee Management System</h2>
 			</center>
 			<div class="signup-image">
